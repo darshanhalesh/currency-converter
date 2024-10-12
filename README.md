@@ -1,2 +1,2 @@
 # currency converter
- currency cinverter using js
+ currency converter using js
